@@ -31,7 +31,7 @@ const Projetos = () => {
             className="projeto-link"
             href="https://andressaeudorareplica.netlify.app/"
           >
-            Clique para ver o Projeto
+            ver o Projeto
           </a>
         </div>
 
@@ -57,7 +57,7 @@ const Projetos = () => {
             className="projeto-link"
             href="https://calculadoradaandressa.netlify.app/"
           >
-            Clique para ver o Projeto
+             ver o Projeto
           </a>
         </div>
 
@@ -82,7 +82,7 @@ const Projetos = () => {
             className="projeto-link"
             href="https://andressastarbuckes.netlify.app/"
           >
-            Clique para ver o Projeto
+           ver o Projeto
           </a>
         </div>
 
@@ -107,7 +107,7 @@ const Projetos = () => {
             className="projeto-link"
             href="https://andressaformulariomario.netlify.app/"
           >
-            Clique para ver o Projeto
+           ver o Projeto
           </a>
         </div>
 
@@ -132,7 +132,7 @@ const Projetos = () => {
             className="projeto-link"
             href="https://andressarefridadev.netlify.app/"
           >
-            Clique para ver o Projeto
+             ver o Projeto
           </a>
         </div>
 
@@ -158,7 +158,7 @@ const Projetos = () => {
             className="projeto-link"
             href="https://andressareplicatesla.netlify.app/"
           >
-            Clique para ver o Projeto
+             ver o Projeto
           </a>
         </div>
 
@@ -183,7 +183,7 @@ const Projetos = () => {
             className="projeto-link"
             href="https://andressaprojetogta.netlify.app/"
           >
-            Clique para ver o Projeto
+            ver o Projeto
           </a>
         </div>
 
@@ -208,7 +208,7 @@ const Projetos = () => {
             className="projeto-link"
             href="https://andressa1010.github.io/clima-do-tempo/"
           >
-            Clique para ver o Projeto
+            ver o Projeto
           </a>
         </div>
 
@@ -233,7 +233,7 @@ const Projetos = () => {
             className="projeto-link"
             href="https://projetoandressaxmen.netlify.app/"
           >
-            Clique para ver o Projeto
+            ver o Projeto
           </a>
         </div>
 
@@ -255,7 +255,7 @@ const Projetos = () => {
             rotas dos produtos
           </p>
           <a className="projeto-link" href="https://andressastarb.netlify.app/">
-            Clique para ver o Projeto
+            ver o Projeto
           </a>
         </div>
 
@@ -280,7 +280,7 @@ const Projetos = () => {
             className="projeto-link"
             href="https://andressaonepiece.netlify.app/"
           >
-            Clique para ver o Projeto
+             ver o Projeto
           </a>
         </div>
 
@@ -305,7 +305,7 @@ const Projetos = () => {
             className="projeto-link"
             href="https://andressapokemons.netlify.app/"
           >
-            Clique para ver o Projeto
+             ver o Projeto
           </a>
         </div>
         <div className="content">
@@ -326,7 +326,7 @@ const Projetos = () => {
             uma experiência prática e intuitiva aos clientes.
           </p>
           <a className="projeto-link" href="https://studiograce.netlify.app/">
-            Clique para ver o Projeto
+           ver o Projeto
           </a>
         </div>
         <div className="content">
@@ -350,7 +350,7 @@ const Projetos = () => {
             className="projeto-link"
             href="https://andressalistadetarefas.netlify.app/"
           >
-            Clique para ver o Projeto
+             ver o Projeto
           </a>
         </div>
         <div className="content">
@@ -374,7 +374,7 @@ const Projetos = () => {
             className="projeto-link"
             href="https://andressaunhasgel.netlify.app/"
           >
-            Clique para ver o Projeto
+             ver o Projeto
           </a>
         </div>
       </div>
