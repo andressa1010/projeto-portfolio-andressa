@@ -1,0 +1,172 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: -webkit-linear-gradient(90deg, #291d53,#4d1740,#5a1e2d);
+background: linear-gradient(90deg, #291d53,#4d1740,#5a1e2d);
+}
+
+header{
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 10px;
+  font-size: 30px;
+  height: 100px;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  
+}
+
+a:hover{
+  color: chartreuse;
+}
+
+
+
+
+
+.div-logo{
+  display: flex;
+  justify-content: center;
+}
+
+
+.container{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.img-andressa {
+  width: 400px;
+}
+
+.text{
+  color:white;
+  font-size: 20px;
+  max-width: 600px;
+  position: relative;
+   top: 100px;
+}
+
+.container-projetos{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  
+}
+
+h2{
+  color: #ffffff;
+}
+
+.text-projeto{
+  width: 400px;
+  color: #ffffff;
+}
+
+
+.content{
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+
+.estilo-video{
+  width: 400px;
+  border-radius: 50px;
+}
+
+.projeto-link{
+  font-size: 20px;
+  background: -webkit-linear-gradient(90deg, #ffa602,#ff168d,#8227ff);
+  background: linear-gradient(90deg, #ffa602,#ff168d,#8227ff);
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 40px;
+  position: relative;
+  top: 30px;
+
+}
+
+.projeto-link:hover{
+  color: chartreuse;
+}
+
+
+
+
+
+p{
+  font-size: 20px;
+  color:#ffffff;
+}
+
+.container-formacao{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+
+}
+
+.img-formatura{
+  width: 400px;
+  border-radius: 50px;
+}
+
+
+.text-formacao{
+  margin: 60px;
+  max-width: 600px;
+  font-size: 20px;
+}
+
+
+@media (max-width: 768px) {
+  .container-projetos {
+    flex-direction: column;
+    align-items: center; 
+  }
+
+  .text-projeto, .estilo-video {
+    width: 90%; 
+  }
+
+  .projeto-link {
+    width: fit-content;
+    margin-top: 20px; 
+  }
+}
+
+
+
+
+
+@media(max-width:500px){
+  .container{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .img-andressa{
+    position: relative;
+    top: 70px;
+  }
+}
+
+@media(max-width:460px){
+  .div-logo img{
+    width: 300px;
+  }
+}
