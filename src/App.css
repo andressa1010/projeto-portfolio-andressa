@@ -114,6 +114,7 @@ p {
 .whatsapp {
   display: flex;
   justify-content: end;
+  align-items: end;
 }
 
 .whatsapp img {
@@ -194,5 +195,25 @@ p {
     margin: 10px;
     padding: 10px;
     font-size: 16px;
+  }
+}
+
+@media (max-width: 768px) {
+  .container {
+      flex-direction: column; /* Empilha os elementos verticalmente */
+      padding: 10px;
+  }
+
+  .content{
+      width: 100%; /* Ocupa toda a largura */
+      margin-bottom: 20px; /* Adiciona espaço entre os elementos */
+  }
+
+  video{ max-width: 100%; /* Ajusta as imagens ao tamanho da tela */
+      height: auto;
+  }
+
+   p, .projeto-link {
+      font-size: 1rem; /* Reduz o tamanho da fonte */
   }
 }
