@@ -111,6 +111,24 @@ p {
   border-radius: 50px;
 }
 
+.container-text-link{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+p{
+  font-size: 20px;
+  max-width: 600px;
+}
+
+.container-text-link img{
+    margin: 50px;
+    border-radius: 50%;
+}
+
+
 .whatsapp {
   display: flex;
   justify-content: end;
@@ -196,24 +214,26 @@ p {
     padding: 10px;
     font-size: 16px;
   }
+  
 }
 
 @media (max-width: 768px) {
   .container {
-      flex-direction: column; /* Empilha os elementos verticalmente */
+      flex-direction: column; 
       padding: 10px;
   }
 
   .content{
-      width: 100%; /* Ocupa toda a largura */
-      margin-bottom: 20px; /* Adiciona espaço entre os elementos */
+      width: 100%; 
+      margin-bottom: 20px; 
   }
 
-  video{ max-width: 100%; /* Ajusta as imagens ao tamanho da tela */
+  video{ max-width: 100%; 
       height: auto;
   }
 
    p, .projeto-link {
-      font-size: 1rem; /* Reduz o tamanho da fonte */
+      font-size: 1rem;
   }
+
 }

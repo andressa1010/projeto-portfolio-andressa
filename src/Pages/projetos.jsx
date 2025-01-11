@@ -24,7 +24,8 @@ const Projetos = () => {
             na Eudora, desenvolvida em React. O projeto foca na criação de um
             layout moderno e responsivo, com funcionalidades de navegação e
             links para redes sociais. O site também apresenta animações leves e
-            um design clean, focado na experiência do usuário. 
+            um design clean, focado na experiência do usuário. Tecnologias
+            usadas React Javascript Html Css React Router Dom pras as rotas
           </p>
           <a
             className="projeto-link"
