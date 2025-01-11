@@ -214,6 +214,18 @@ p {
     padding: 10px;
     font-size: 16px;
   }
+  .container-text-link{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 50px;
+  }
+  .container-text-link p{
+    font-size: 20px;
+  }
+  .container-text-link img{
+    width: 200px;
+  }
   
 }
 
