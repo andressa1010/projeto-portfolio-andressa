@@ -20,12 +20,11 @@ const Projetos = () => {
             loop
           ></video>
           <p className="text-projeto">
-            Projeto: Clone da Eudora Réplica de um site de e-commerce inspirado
+            Clone da Eudora Réplica de um site de e-commerce inspirado
             na Eudora, desenvolvida em React. O projeto foca na criação de um
             layout moderno e responsivo, com funcionalidades de navegação e
             links para redes sociais. O site também apresenta animações leves e
-            um design clean, focado na experiência do usuário. Tecnologias
-            usadas React Javascript Html Css React Router Dom pras as rotas
+            um design clean, focado na experiência do usuário. 
           </p>
           <a
             className="projeto-link"
