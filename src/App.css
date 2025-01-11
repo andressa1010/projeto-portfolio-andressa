@@ -126,6 +126,14 @@ p{
   border-radius: 50px;
 }
 
+.whatsapp{
+  display: flex;
+  justify-content: end;
+}
+
+.whatsapp img{
+  height: 60px;
+}
 
 .text-formacao{
   margin: 60px;
@@ -133,6 +141,21 @@ p{
   font-size: 20px;
 }
 
+
+.container-text{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+p{
+  font-size: 20px;
+  max-width: 600px;
+}
+
+.container-text img{
+  width: 400px;
+}
 
 @media (max-width: 768px) {
   .container-projetos {
@@ -163,10 +186,41 @@ p{
     position: relative;
     top: 70px;
   }
+  .container-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ 
+ p{
+   font-size: 16px;
+   max-width: 600px;
+ }
+ 
+ .container-text img{
+   width: 200px;
+ }
 }
 
 @media(max-width:460px){
   .div-logo img{
     width: 300px;
   }
+  .container-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ 
+ p{
+   font-size: 16px;
+   max-width: 600px;
+   position: relative;
+   top: 60px;
+ }
+ 
+ .container-text img{
+   width: 200px;
+ }
 }
+
