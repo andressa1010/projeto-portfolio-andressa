@@ -304,6 +304,11 @@ p {
    width: 200px;
   font-size: 10px;
 }
+.projeto-link-projetos{
+  position: relative;
+  bottom: 250px;
+
+}
 
 }
 
