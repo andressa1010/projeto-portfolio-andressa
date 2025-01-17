@@ -185,7 +185,7 @@ p {
   width: 400px;
 }
 
-.text-projetos{
+.text-projetos, .text-projetos-p{
   display: flex;
   justify-content: center;
 }
@@ -194,6 +194,9 @@ p {
   color:deeppink;
 }
 
+.text-projetos-p{
+  font-size: 20px;
+}
 
 
 @media (max-width: 500px) {
@@ -269,7 +272,12 @@ p {
     flex-wrap: wrap;
   }
   .content-certificados img{
-    width: 200px;
+    width: 300px;
+  }
+  .text-projetos-p{
+    position: relative;
+    bottom: 30px;
+    font-size: 16px;
   }
   
 }

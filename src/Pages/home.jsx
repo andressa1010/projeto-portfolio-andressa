@@ -122,7 +122,7 @@ const Home = () => {
       <div className="text-projetos">
         <h2>Principais Projetos - Transformando ideias em soluções</h2>
       </div>
-      <div className="text-projetos">
+      <div className="text-projetos-p">
       <p>
           Ao longo da minha jornada, desenvolvi projetos que unem tecnologia,
           criatividade e funcionalidade, sempre com foco em proporcionar uma
