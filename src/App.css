@@ -176,6 +176,25 @@ p {
 }
 
 
+.certificados{
+   display: flex;
+   justify-content: space-around;
+}
+
+.content-certificados img{
+  width: 400px;
+}
+
+.text-projetos{
+  display: flex;
+  justify-content: center;
+}
+
+.text-projetos h2{
+  color:deeppink;
+}
+
+
 
 @media (max-width: 500px) {
   .container {
@@ -242,6 +261,14 @@ p {
     font-size: 16px;
   }
   .container-text-link img{
+    width: 200px;
+  }
+  .certificados{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .content-certificados img{
     width: 200px;
   }
   
