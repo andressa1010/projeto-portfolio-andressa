@@ -30,10 +30,7 @@ No front-end, implementei uma interface dinâmica,
 responsiva e estilizada com React.js, React Router DOM e styled-components,
  proporcionando uma experiência de navegação fluida e intuitiva para o usuário.
 
-Este projeto reflete minhas habilidades em desenvolvimento full stack, 
-com foco em performance, organização e experiência do usuário,
- evidenciando minha capacidade de construir sistemas escaláveis
-  e bem estruturados.
+Este projeto reflete minhas habilidades em desenvolvimento full stack
     `,
     link: "https://andressaregistrarusuarios.netlify.app/",
   },
@@ -56,9 +53,7 @@ responsiva e intuitiva utilizando React.js,
 React Router DOM e styled-components, proporcionando aos usuários
  uma experiência fluida e fácil de usar.
 
-Este projeto destaca minha capacidade de construir soluções 
-completas, focadas em usabilidade, performance e integração de sistemas, 
-entregando resultados práticos e impactantes.`,
+`,
     link: "https://agendamentosandressa.netlify.app/",
   },
 ];
@@ -139,7 +134,7 @@ const Home = () => {
             <img src={projeto.image} alt={projeto.name}></img>
             <p> {projeto.description} </p>
             <a
-              className="projeto-link"
+              className="projeto-link-projetos"
               href={projeto.link}
               target="_blank"
               rel="noopener noreferrer"
