@@ -179,10 +179,14 @@ p {
 .certificados{
    display: flex;
    justify-content: space-around;
+  
 }
 
 .content-certificados img{
   width: 400px;
+  border-radius: 40px;
+  border-style: groove;
+  border-color: chartreuse;
 }
 
 .text-projetos, .text-projetos-p{
@@ -191,7 +195,10 @@ p {
 }
 
 .text-projetos h2{
-  color:deeppink;
+  color: #ffffff;
+  font-family: "Rubik Vinyl", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .text-projetos-p{
@@ -306,10 +313,24 @@ p {
 }
 .projeto-link-projetos{
   position: relative;
-  bottom: 250px;
+  bottom: 200px;
+
+}
+.text-projetos h2{
+  font-size: 16px;
+}
 
 }
 
+@media(max-width:360px){
+  .projeto-link-projetos{
+    position: relative;
+    bottom: 230px;
+  
+  }
+  .text-projetos h2{
+    font-size: 16px;
+  }
 }
 
 @media (max-width: 768px) {
