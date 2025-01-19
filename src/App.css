@@ -353,3 +353,11 @@ p {
   }
 
 }
+
+@media(max-width: 394px){
+  .text{
+    font-size: 20px;
+    width: 340px;
+  }
+
+}
