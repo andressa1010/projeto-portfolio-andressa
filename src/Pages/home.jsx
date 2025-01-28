@@ -49,8 +49,7 @@ serviços e horários.
 
 No front-end, desenvolvi uma interface moderna, 
 responsiva e intuitiva utilizando React.js, 
-React Router DOM e styled-components, proporcionando aos usuários
- uma experiência fluida e fácil de usar.
+React Router DOM.
 
 `,
     link: "https://agendamentosandressa.netlify.app/",
