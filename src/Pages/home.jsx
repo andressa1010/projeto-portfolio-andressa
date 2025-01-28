@@ -62,7 +62,7 @@ const Home = () => {
       <Menu />
 
       <div className="div-logo">
-        <img className="logo" src="/logo9_29_01126 (1).png" alt="logo"></img>
+        <img className="logo" src="/logo1_12_7055.png" alt="logo"></img>
       </div>
 
       <div className="container">
