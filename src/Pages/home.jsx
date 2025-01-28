@@ -12,8 +12,7 @@ const projetosAndressa = [
       diretamente da API, garantindo uma integração dinâmica e eficiente.
    No front-end, utilizei React.js, React Router DOM e styled-components para
    construir uma interface moderna e responsiva, onde cada detalhe, 
-  desde as informações até as imagens, é exibido em perfeita harmonia.
-   Um sistema completo que une funcionalidade e design para uma confeitaria virtual `,
+  desde as informações até as imagens, é exibido em perfeita harmonia.`,
     link: "https://andressadocesebolos.netlify.app/",
   },
   {
